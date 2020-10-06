@@ -1,0 +1,7 @@
+Dataset : https://www.quandl.com/data/EOD/MSFT-Microsoft-Corporation-MSFT-Stock-Prices-Dividends-and-Splits
+
+PYTHON | JUPYTER NOTEBOOK | GOOGLE COLAB | SCI-KIT LEARN
+
+Video Resources : https://youtu.be/M9Itm95JzL0
+
+Andrew Ng - Stanford - Coursera - ML - lecture notes : provided in the "Resources" directory
